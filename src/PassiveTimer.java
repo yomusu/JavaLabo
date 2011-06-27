@@ -1,4 +1,12 @@
 
+/*******************************************
+ * 
+ * 
+ * ボツ
+ * 
+ * @author matsumoto
+ *
+ */
 public class PassiveTimer {
 
 	/** 設定期間 */
